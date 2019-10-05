@@ -1,7 +1,7 @@
-AiFir Title
+AiFiR a new way to experience data.
 ==========================
 
-AiFiR Info. 
+This is the js dependencies libary.
 
 Introduction
 -------------
