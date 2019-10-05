@@ -10,7 +10,7 @@ Introduction
 
 
 Various information regarding the library can be found,
-some of it will be documented here at some time.
+some of it will be documented here, at some time.
 
 Footer
 --------------
