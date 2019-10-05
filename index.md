@@ -9,7 +9,7 @@ Introduction
 ![AiFiR Info](AiFiR.jpg "Hello")
 
 
-Various information regarding the library can be found,
+Various information regarding the library may be found,
 some of it will be documented here, at some time.
 
 Footer
